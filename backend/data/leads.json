@@ -1,0 +1,824 @@
+[
+  {
+    "id": "ec242a8a-18ba-4ca6-a78c-5af351a026a7",
+    "createdAt": "2026-06-17T06:37:26.651Z",
+    "updatedAt": "2026-06-17T06:37:26.653Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "12f7bf97-18dd-4999-9c6f-8d397cf4bd1b",
+    "createdAt": "2026-06-17T06:37:26.678Z",
+    "updatedAt": "2026-06-17T06:38:51.918Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": {
+      "customerId": "SBI1002",
+      "name": "Arjun Mehta",
+      "relationshipSince": "2022",
+      "existingProducts": [
+        "SBI Current Account for Professionals"
+      ],
+      "recentActivity": [
+        "Irregular monthly credits consistent with freelance/contract income",
+        "Frequent UPI payments to business-related vendors",
+        "No insurance or investment product linked"
+      ],
+      "lifeSignals": [
+        "Self-employed/freelancer",
+        "Business cash flow growing over last 6 months"
+      ],
+      "segment": "freelancer"
+    },
+    "stage": "existing_customer_identified",
+    "messages": [
+      {
+        "role": "user",
+        "text": "SBI1002",
+        "at": "2026-06-17T06:38:49.194Z"
+      },
+      {
+        "role": "user",
+        "text": "NEW CUSTOMER WANT TO LEARN MORE ABOUT INVESTMENT",
+        "at": "2026-06-17T06:39:27.535Z"
+      }
+    ]
+  },
+  {
+    "id": "226c2462-ae6a-4b37-9a14-d688e5e5866f",
+    "createdAt": "2026-06-17T06:43:45.735Z",
+    "updatedAt": "2026-06-17T06:43:45.735Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "f2485d00-4f76-4f1a-af65-24fe83424ffe",
+    "createdAt": "2026-06-17T06:43:45.748Z",
+    "updatedAt": "2026-06-17T06:44:01.169Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": {
+      "customerId": "SBI1002",
+      "name": "Arjun Mehta",
+      "relationshipSince": "2022",
+      "existingProducts": [
+        "SBI Current Account for Professionals"
+      ],
+      "recentActivity": [
+        "Irregular monthly credits consistent with freelance/contract income",
+        "Frequent UPI payments to business-related vendors",
+        "No insurance or investment product linked"
+      ],
+      "lifeSignals": [
+        "Self-employed/freelancer",
+        "Business cash flow growing over last 6 months"
+      ],
+      "segment": "freelancer"
+    },
+    "stage": "existing_customer_identified",
+    "messages": [
+      {
+        "role": "user",
+        "text": "SBI1002",
+        "at": "2026-06-17T06:43:58.629Z"
+      },
+      {
+        "role": "model",
+        "text": "Hello Arjun! Welcome back to SBI. I see you've been a valuable customer since 2022 and already have our SBI Current Account for Professionals.\n\nHow can I help you with your financial goals today? Are you looking to explore new ways to grow your money or perhaps secure your future?",
+        "at": "2026-06-17T06:44:03.818Z"
+      }
+    ]
+  },
+  {
+    "id": "c0e9e080-c67d-4a06-b7c6-f9f4b4b4e0c3",
+    "createdAt": "2026-06-17T07:04:22.569Z",
+    "updatedAt": "2026-06-17T07:04:22.571Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "e118464c-3da6-4578-904b-872f488d984c",
+    "createdAt": "2026-06-17T07:04:22.589Z",
+    "updatedAt": "2026-06-17T07:04:33.386Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": {
+      "customerId": "SBI1002",
+      "name": "Arjun Mehta",
+      "relationshipSince": "2022",
+      "existingProducts": [
+        "SBI Current Account for Professionals"
+      ],
+      "recentActivity": [
+        "Irregular monthly credits consistent with freelance/contract income",
+        "Frequent UPI payments to business-related vendors",
+        "No insurance or investment product linked"
+      ],
+      "lifeSignals": [
+        "Self-employed/freelancer",
+        "Business cash flow growing over last 6 months"
+      ],
+      "segment": "freelancer"
+    },
+    "stage": "existing_customer_identified",
+    "messages": [
+      {
+        "role": "user",
+        "text": "SBI1002",
+        "at": "2026-06-17T07:04:28.118Z"
+      },
+      {
+        "role": "model",
+        "text": "Hello Arjun! It's great to connect with you. I see you've been a valued SBI customer since 2022, and your business cash flow has been growing nicely.\n\nI also notice you don't currently have any investment or insurance products linked to your profile. Is growing your money or protecting your income something you've been thinking about?",
+        "at": "2026-06-17T07:04:36.417Z"
+      }
+    ]
+  },
+  {
+    "id": "8aab9835-faba-4596-ac65-4a4f66ef7af0",
+    "createdAt": "2026-06-17T07:25:31.064Z",
+    "updatedAt": "2026-06-17T07:25:31.065Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "cc4b7a2b-8aec-467e-8017-61398f2eeb7b",
+    "createdAt": "2026-06-17T07:25:31.200Z",
+    "updatedAt": "2026-06-17T07:25:31.200Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "daad2fd3-3e80-4184-9b78-04243ab8f48d",
+    "createdAt": "2026-06-17T07:33:01.032Z",
+    "updatedAt": "2026-06-17T07:33:01.033Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "2d805581-0f68-4c5a-820d-67d1d1904b76",
+    "createdAt": "2026-06-17T07:33:01.048Z",
+    "updatedAt": "2026-06-17T07:33:01.048Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "15fb419b-7e6e-4fb3-8b92-279d02c485e9",
+    "createdAt": "2026-06-17T07:39:25.487Z",
+    "updatedAt": "2026-06-17T07:39:25.487Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "5775eab5-3c53-41a7-8613-ebab8b9ae490",
+    "createdAt": "2026-06-17T07:39:25.499Z",
+    "updatedAt": "2026-06-17T07:40:59.584Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": {
+      "customerId": "SBI1003",
+      "name": "Kavita Iyer",
+      "relationshipSince": "2015",
+      "existingProducts": [
+        "SBI Savings Plus Account",
+        "SBI Mutual Fund SIP (via YONO)"
+      ],
+      "recentActivity": [
+        "Active SIP of ₹3,000/month for 18 months",
+        "Recent large credit suggesting bonus or asset sale",
+        "Searched home loan eligibility calculator on YONO twice last month"
+      ],
+      "lifeSignals": [
+        "Salaried, mid-career",
+        "Likely planning a home purchase"
+      ],
+      "segment": "salaried"
+    },
+    "stage": "existing_customer_identified",
+    "messages": [
+      {
+        "role": "user",
+        "text": "SBI1003",
+        "at": "2026-06-17T07:40:57.040Z"
+      },
+      {
+        "role": "model",
+        "text": "Hello Kavita! It's great to connect with you again. I see you've been actively using your SBI Savings Plus account and investing regularly through your SIP.\n\nI also noticed you've recently checked our home loan eligibility calculator on YONO. Are you actively house-hunting or considering a home purchase soon?",
+        "at": "2026-06-17T07:41:02.414Z"
+      },
+      {
+        "role": "user",
+        "text": "yes planning to purchase",
+        "at": "2026-06-17T07:41:44.720Z"
+      }
+    ]
+  },
+  {
+    "id": "3ee7af99-9e3e-4d8a-a334-2ce2848bb510",
+    "createdAt": "2026-06-19T07:44:16.202Z",
+    "updatedAt": "2026-06-19T07:44:16.204Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "e0b0640c-33b7-499b-853e-f80ed806a4fe",
+    "createdAt": "2026-06-19T07:44:16.223Z",
+    "updatedAt": "2026-06-19T07:44:16.223Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": [
+      {
+        "role": "user",
+        "text": "No I'm a new customer",
+        "at": "2026-06-19T07:44:54.924Z"
+      },
+      {
+        "role": "user",
+        "text": "No I'm a new customer",
+        "at": "2026-06-19T07:44:56.469Z"
+      },
+      {
+        "role": "model",
+        "text": "Welcome to SBI! I'm Saarthi, your AI onboarding concierge.\n\nHow can I help you with your financial goals today?",
+        "at": "2026-06-19T07:44:59.369Z"
+      }
+    ]
+  },
+  {
+    "id": "ba504e8b-22bd-4fdf-bfa5-9960fc67f3c3",
+    "createdAt": "2026-06-19T09:19:11.534Z",
+    "updatedAt": "2026-06-19T09:19:11.535Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "75ae8d31-38d0-412a-a7bc-fbaa53f6eecf",
+    "createdAt": "2026-06-19T09:19:11.589Z",
+    "updatedAt": "2026-06-19T09:19:11.589Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "4ae3ac2e-bf4c-4d19-9fb5-a22e9aa30e0b",
+    "createdAt": "2026-06-19T17:16:30.343Z",
+    "updatedAt": "2026-06-19T17:16:30.344Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "434ae98b-1d6f-4037-9934-6e5cee9896d1",
+    "createdAt": "2026-06-19T17:16:30.378Z",
+    "updatedAt": "2026-06-19T17:16:30.378Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "e1ea7f84-fae0-46f3-a673-64a56eb0e774",
+    "createdAt": "2026-06-20T05:04:38.381Z",
+    "updatedAt": "2026-06-20T05:04:38.383Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "6e106ac8-6f7c-46cd-b3b4-f6d15f14c716",
+    "createdAt": "2026-06-20T05:04:38.402Z",
+    "updatedAt": "2026-06-20T05:04:38.402Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": [
+      {
+        "role": "user",
+        "text": "\"Hi, I'm new here and honestly a bit overwhelmed. I've just started my first job and I'm not really sure where to begin with banking. I want to understand what kind of savings account would suit me, but I also want to know about loans — like if I ever need a personal loan or maybe a home loan in the future, what are my options? I've heard SBI has a lot of schemes but I don't know which ones apply to someone like me. Also is there any investment option for beginners? I don't have a lot of money to start with, maybe ₹500 or ₹1000 a month. And what about insurance — do I need it at my age? I'm 23 years old, salaried, just started working three months ago. Can you explain everything in simple terms?",
+        "at": "2026-06-20T05:04:53.763Z"
+      },
+      {
+        "role": "user",
+        "text": "\"Hi, I'm new here and honestly a bit overwhelmed. I've just started my first job and I'm not really sure where to begin with banking. I want to understand what kind of savings account would suit me, but I also want to know about loans — like if I ever need a personal loan or maybe a home loan in the future, what are my options? I've heard SBI has a lot of schemes but I don't know which ones apply to someone like me. Also is there any investment option for beginners? I don't have a lot of money to start with, maybe ₹500 or ₹1000 a month. And what about insurance — do I need it at my age? I'm 23 years old, salaried, just started working three months ago. Can you explain everything in simple terms?",
+        "at": "2026-06-20T05:04:55.510Z"
+      },
+      {
+        "role": "model",
+        "text": "Welcome to SBI! It's completely normal to feel a bit overwhelmed when you're just starting out, but don't worry, I'm here to help you understand everything in simple terms.\n\nIt's great that you're thinking about your financial future right from your first job!\n\nTo begin, let's look at a suitable savings account for you as a salaried individual. You mentioned you've just started working. Could you tell me if you're looking for an account where you don't need to maintain a high minimum balance?",
+        "at": "2026-06-20T05:04:59.406Z"
+      },
+      {
+        "role": "user",
+        "text": "yes with minimum balance, cuz work as a teacher and my salary is 25000",
+        "at": "2026-06-20T05:06:08.424Z"
+      },
+      {
+        "role": "model",
+        "text": "",
+        "at": "2026-06-20T05:06:10.324Z"
+      }
+    ]
+  },
+  {
+    "id": "c0269252-2d07-493a-92b6-973b8c63a095",
+    "createdAt": "2026-06-20T05:06:14.963Z",
+    "updatedAt": "2026-06-20T05:06:14.963Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "c5ad5a29-b915-4f79-90aa-bcb7ea761022",
+    "createdAt": "2026-06-20T05:06:14.972Z",
+    "updatedAt": "2026-06-20T05:24:43.812Z",
+    "profile": {
+      "occupation": "salaried",
+      "primaryGoal": "savings and investment",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": "User is a 23-year-old salaried individual, just started working three months ago, with a salary of ₹58,000, and has a home loan. They are interested in a savings account and investment options."
+    },
+    "score": 60,
+    "tier": "warm",
+    "scoreReasoning": "The lead has a clear goal of savings and is interested in investment options, but has a relatively low salary and existing home loan commitments.",
+    "recommendedProducts": [
+      "savings-plus",
+      "smart-invest-sip"
+    ],
+    "recommendationJustification": "The SBI Savings Plus Account is a good fit for someone looking to start saving, with features like zero balance digital account option and auto-sweep to fixed deposit. Additionally, the SBI Mutual Fund SIP is a low-risk investment option that allows for starting small with ₹500/month.",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "qualifying",
+    "messages": [
+      {
+        "role": "user",
+        "text": "\"Hi, I'm new here and honestly a bit overwhelmed. I've just started my first job and I'm not really sure where to begin with banking. I want to understand what kind of savings account would suit me, but I also want to know about loans — like if I ever need a personal loan or maybe a home loan in the future, what are my options? I've heard SBI has a lot of schemes but I don't know which ones apply to someone like me. Also is there any investment option for beginners? I don't have a lot of money to start with, maybe ₹500 or ₹1000 a month. And what about insurance — do I need it at my age? I'm 23 years old, salaried, just started working three months ago. Can you explain everything in simple terms?\"",
+        "at": "2026-06-20T05:19:22.899Z"
+      },
+      {
+        "role": "model",
+        "text": "Let's break it down step by step. For savings, we have a few options like the SBI Savings Plus Account. Since you're just starting out, this account has features like zero balance digital account option and auto-sweep to fixed deposit for idle balance above a certain threshold. \n\nAs for loans, we do offer personal loans and home loans, but let's focus on understanding your current needs first. \n\nFor investments, starting small is a great idea. Our SBI Mutual Fund SIP allows you to start investing with as little as ₹500/month. \n\nLastly, regarding insurance, it's always a good idea to have some form of protection, but let's discuss that once we have a better understanding of your financial goals and situation. \n\nWhat do you think about starting with a savings account and exploring the investment option through our mutual fund SIP?",
+        "at": "2026-06-20T05:19:28.141Z"
+      },
+      {
+        "role": "user",
+        "text": "starting with saving would be good ,,, cuz i already have a home loan and my salary is 58000 only",
+        "at": "2026-06-20T05:21:00.225Z"
+      },
+      {
+        "role": "model",
+        "text": "I've recommended the SBI Savings Plus Account and the SBI Mutual Fund SIP for you. The Savings Plus Account is great for everyday savings and can help you grow your idle money. The Mutual Fund SIP allows you to start investing with as little as ₹500/month, which is a good way to begin your investment journey. \n\nWould you like to proceed with opening a Savings Plus Account and starting a Mutual Fund SIP, or would you like to discuss further or explore other options?",
+        "at": "2026-06-20T05:21:05.429Z"
+      },
+      {
+        "role": "user",
+        "text": "sounds good , tell me more about it",
+        "at": "2026-06-20T05:21:44.642Z"
+      },
+      {
+        "role": "user",
+        "text": "sounds good tell me more about it .",
+        "at": "2026-06-20T05:24:42.001Z"
+      }
+    ]
+  },
+  {
+    "id": "12323acb-f4cc-4a30-8ef2-f80c31f0f49c",
+    "createdAt": "2026-06-20T05:08:34.643Z",
+    "updatedAt": "2026-06-20T05:08:34.643Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "be6e91f4-c00c-4680-ba60-661328abf2ea",
+    "createdAt": "2026-06-20T05:08:34.654Z",
+    "updatedAt": "2026-06-20T05:08:34.654Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "97cf886e-9672-4f04-8e2d-371981bfc39d",
+    "createdAt": "2026-06-20T05:25:02.505Z",
+    "updatedAt": "2026-06-20T05:25:02.505Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "08a520e1-eec4-4bd7-adbc-3f5cc42a556c",
+    "createdAt": "2026-06-20T05:25:02.514Z",
+    "updatedAt": "2026-06-20T05:26:44.249Z",
+    "profile": {
+      "occupation": "salaried",
+      "primaryGoal": "saving/investing",
+      "urgency": "low",
+      "riskAppetite": "low",
+      "notes": "Salaried, 23 years old, first job, ₹55,000 monthly salary, has a home loan, wants to save/invest ₹500-1000 monthly"
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "qualifying",
+    "messages": [
+      {
+        "role": "user",
+        "text": "\"Hi, I'm new here and honestly a bit overwhelmed. I've just started my first job and I'm not really sure where to begin with banking. I want to understand what kind of savings account would suit me, but I also want to know about loans — like if I ever need a personal loan or maybe a home loan in the future, what are my options? I've heard SBI has a lot of schemes but I don't know which ones apply to someone like me. Also is there any investment option for beginners? I don't have a lot of money to start with, maybe ₹500 or ₹1000 a month. And what about insurance — do I need it at my age? I'm 23 years old, salaried, just started working three months ago. Can you explain everything in simple terms?\"",
+        "at": "2026-06-20T05:25:05.655Z"
+      },
+      {
+        "role": "model",
+        "text": "Congratulations on your first job. Let's break it down step by step. As a salaried individual, you might want to consider a savings account that helps you grow your money. Since you're just starting out, it's great that you're thinking about investments and insurance as well. Can you tell me a bit more about your financial goals - are you looking to save for something specific, like a home, or do you want to build an emergency fund?",
+        "at": "2026-06-20T05:25:06.607Z"
+      },
+      {
+        "role": "user",
+        "text": "yes i want to save money maybe with saving account or with mutual funds, suggest me a good one",
+        "at": "2026-06-20T05:25:56.613Z"
+      },
+      {
+        "role": "model",
+        "text": "As a salaried individual, you have a regular income, which is great for investing. Considering you're new to investing and want to start with a small amount, ₹500 or ₹1000 a month, I think a systematic investment plan (SIP) in a mutual fund could be a good option. It's a low-risk and disciplined way to invest. How does that sound?",
+        "at": "2026-06-20T05:26:00.776Z"
+      },
+      {
+        "role": "user",
+        "text": "yes sounds good cuz my salary is 55000, and i already have a house loan",
+        "at": "2026-06-20T05:26:43.007Z"
+      }
+    ]
+  },
+  {
+    "id": "16f1fca5-79c1-4b66-8c33-2a4e2f17ed7b",
+    "createdAt": "2026-06-20T05:27:16.746Z",
+    "updatedAt": "2026-06-20T05:27:16.748Z",
+    "profile": {
+      "occupation": "unknown",
+      "primaryGoal": "unclear",
+      "urgency": "unknown",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": null,
+    "tier": "cold",
+    "scoreReasoning": "",
+    "recommendedProducts": [],
+    "recommendationJustification": "",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "conversation_started",
+    "messages": []
+  },
+  {
+    "id": "68b0f2db-2143-4b4b-a93d-239655c63319",
+    "createdAt": "2026-06-20T05:27:16.769Z",
+    "updatedAt": "2026-06-20T05:27:24.646Z",
+    "profile": {
+      "occupation": "salaried",
+      "primaryGoal": "savings",
+      "urgency": "low",
+      "riskAppetite": "unknown",
+      "notes": ""
+    },
+    "score": 60,
+    "tier": "warm",
+    "scoreReasoning": "The lead is a young, salaried individual who has just started their first job and is looking for a savings account, loan options, investment opportunities, and insurance. They have a limited budget for investment, but are eager to learn and plan for their financial future.",
+    "recommendedProducts": [
+      "savings-plus",
+      "smart-invest-sip"
+    ],
+    "recommendationJustification": "The SBI Savings Plus Account is a great option for a salaried individual who wants a flexible everyday account that automatically grows idle money. The SBI Mutual Fund SIP is a good investment option for beginners, as it allows for a low initial investment of ₹500/month and provides goal-based fund recommendations.",
+    "handoff": null,
+    "existingCustomer": null,
+    "stage": "recommended",
+    "messages": [
+      {
+        "role": "user",
+        "text": "\"Hi, I'm new here and honestly a bit overwhelmed. I've just started my first job and I'm not really sure where to begin with banking. I want to understand what kind of savings account would suit me, but I also want to know about loans — like if I ever need a personal loan or maybe a home loan in the future, what are my options? I've heard SBI has a lot of schemes but I don't know which ones apply to someone like me. Also is there any investment option for beginners? I don't have a lot of money to start with, maybe ₹500 or ₹1000 a month. And what about insurance — do I need it at my age? I'm 23 years old, salaried, just started working three months ago. Can you explain everything in simple terms?\"",
+        "at": "2026-06-20T05:27:19.164Z"
+      },
+      {
+        "role": "model",
+        "text": "Congratulations, I've recommended two products that should suit your needs: the SBI Savings Plus Account and the SBI Mutual Fund SIP. The Savings Plus Account is great for everyday transactions and can help you grow your idle money, while the Mutual Fund SIP allows you to start investing with as little as ₹500 per month. Would you like to proceed with applying for these products or would you like to discuss further?",
+        "at": "2026-06-20T05:27:25.456Z"
+      }
+    ]
+  }
+]

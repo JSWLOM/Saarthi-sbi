@@ -1,0 +1,80 @@
+[
+  {
+    "id": "savings-plus",
+    "name": "SBI Savings Plus Account",
+    "category": "savings",
+    "targetSegment": ["salaried", "student", "general"],
+    "eligibility": "Indian resident, 18+ years, valid KYC documents",
+    "keyBenefits": [
+      "Zero balance digital account option",
+      "Auto-sweep to fixed deposit for idle balance above threshold",
+      "Free UPI and mobile banking"
+    ],
+    "pitch": "Best for someone who wants a flexible everyday account that automatically grows idle money."
+  },
+  {
+    "id": "freelancer-current",
+    "name": "SBI Current Account for Professionals",
+    "category": "business_banking",
+    "targetSegment": ["freelancer", "self_employed", "small_business"],
+    "eligibility": "Valid business/professional proof, PAN, GST optional depending on turnover",
+    "keyBenefits": [
+      "Lower minimum balance for individual professionals",
+      "Invoicing and payment collection tools",
+      "Working capital overdraft eligibility after 6 months"
+    ],
+    "pitch": "Best for freelancers or self-employed individuals who need to separate business cash flow from personal savings."
+  },
+  {
+    "id": "smart-invest-sip",
+    "name": "SBI Mutual Fund SIP (via YONO)",
+    "category": "investment",
+    "targetSegment": ["salaried", "freelancer", "general"],
+    "eligibility": "Active SBI account, KYC compliant, no minimum income requirement",
+    "keyBenefits": [
+      "SIP starting at ₹500/month",
+      "Auto-debit from linked account",
+      "Goal-based fund recommendations"
+    ],
+    "pitch": "Best for someone who wants to start investing consistently without needing a large lump sum."
+  },
+  {
+    "id": "home-loan-quick",
+    "name": "SBI Home Loan - Quick Sanction",
+    "category": "loan",
+    "targetSegment": ["salaried", "self_employed", "general"],
+    "eligibility": "Stable income proof for last 2 years, credit score above 700 preferred",
+    "keyBenefits": [
+      "Digital pre-approval in under 48 hours",
+      "Competitive floating interest rates",
+      "Doorstep document collection"
+    ],
+    "pitch": "Best for someone actively planning a home purchase in the next few months."
+  },
+  {
+    "id": "term-protect",
+    "name": "SBI Life Term Protect",
+    "category": "insurance",
+    "targetSegment": ["salaried", "self_employed", "general"],
+    "eligibility": "18-65 years, basic medical declaration",
+    "keyBenefits": [
+      "High cover at low premium",
+      "Optional critical illness rider",
+      "Premium calculator before commitment"
+    ],
+    "pitch": "Best for someone with dependents who wants affordable income protection."
+  },
+  {
+    "id": "student-edge",
+    "name": "SBI Student Edge Account",
+    "category": "savings",
+    "targetSegment": ["student"],
+    "eligibility": "Valid student ID, age 16-25",
+    "keyBenefits": [
+      "Zero balance requirement",
+      "Discounted debit card fees",
+      "Education loan pre-eligibility tracking"
+    ],
+    "pitch": "Best for students who want a no-fee account with a path to an education loan later."
+  }
+]

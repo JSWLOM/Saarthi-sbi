@@ -1,0 +1,54 @@
+[
+  {
+    "customerId": "SBI1001",
+    "name": "Riya Sharma",
+    "relationshipSince": "2019",
+    "existingProducts": ["SBI Savings Plus Account"],
+    "recentActivity": [
+      "Salary credit of ₹85,000 on the 1st of every month",
+      "No active SIP or investment product",
+      "Large idle balance averaging ₹3,10,000 over the last 3 months"
+    ],
+    "lifeSignals": ["Salaried, stable income for 2+ years", "No existing investment or insurance product"],
+    "segment": "salaried"
+  },
+  {
+    "customerId": "SBI1002",
+    "name": "Arjun Mehta",
+    "relationshipSince": "2022",
+    "existingProducts": ["SBI Current Account for Professionals"],
+    "recentActivity": [
+      "Irregular monthly credits consistent with freelance/contract income",
+      "Frequent UPI payments to business-related vendors",
+      "No insurance or investment product linked"
+    ],
+    "lifeSignals": ["Self-employed/freelancer", "Business cash flow growing over last 6 months"],
+    "segment": "freelancer"
+  },
+  {
+    "customerId": "SBI1003",
+    "name": "Kavita Iyer",
+    "relationshipSince": "2015",
+    "existingProducts": ["SBI Savings Plus Account", "SBI Mutual Fund SIP (via YONO)"],
+    "recentActivity": [
+      "Active SIP of ₹3,000/month for 18 months",
+      "Recent large credit suggesting bonus or asset sale",
+      "Searched home loan eligibility calculator on YONO twice last month"
+    ],
+    "lifeSignals": ["Salaried, mid-career", "Likely planning a home purchase"],
+    "segment": "salaried"
+  },
+  {
+    "customerId": "SBI1004",
+    "name": "Aditya Rao",
+    "relationshipSince": "2024",
+    "existingProducts": ["SBI Student Edge Account"],
+    "recentActivity": [
+      "Regular small credits from family/parents",
+      "No loan or investment product yet",
+      "Recently searched education loan information"
+    ],
+    "lifeSignals": ["Student", "Possibly planning higher education or further studies"],
+    "segment": "student"
+  }
+]
